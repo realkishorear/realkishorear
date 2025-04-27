@@ -3,6 +3,8 @@
 Hey, I'm Kishore – an Alchemist who's into algorithms, physics, and SaaS. I build with Next.js, Go, and AWS in addition to C++ for low-level stuffs. Feel free to ping me on [Linkedin](https://www.linkedin.com/in/kishore-raja-baab55261/)
 to build something crazy, stupid and powerful.
 
+(New Account)
+
 ## Tools and Technologies 🔧
 ![Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,cpp,python,go,bash,express,fastapi,graphql,aws,docker,kubernetes,linux,githubactions,postgres,mongodb,redis,tensorflow)
 
