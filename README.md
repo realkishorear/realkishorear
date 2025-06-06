@@ -1,7 +1,6 @@
 # ‍Hello There!👋
 
-Hey, I'm Kishore – an Alchemist who's into algorithms, physics, and SaaS. I build with Next.js, Go, and AWS in addition to C++ for low-level stuffs. Feel free to ping me on [Linkedin](https://www.linkedin.com/in/kishore-raja-baab55261/)
-to build something crazy, stupid and powerful.
+Hey, I'm Kishore – A Deep learning model on steroids. Feel free to ping me on [Linkedin](https://www.linkedin.com/in/kishore-raja-baab55261/)
 
 (New Account)
 
