@@ -1,6 +1,6 @@
-# ‍Hello There!👋
+# ‍👋 Hey, I’m Kishore
 
-Hey, I'm Kishore – A Deep learning model on steroids. I like algorihtms, math and programming + physics (sometimes).
+I design and build computer systems…and sometimes they scale ; )
 
 ## Tools and Technologies 🔧
 ![Skills](https://skillicons.dev/icons?i=cpp,java,python,typescript,bash,next,express,fastapi,graphql,pytorch,tailwind,postgres,mongodb,sqlite,redis,rabbitmq,docker,linux,aws,githubactions,prometheus,grafana)
