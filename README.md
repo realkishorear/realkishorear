@@ -1,6 +1,6 @@
 # ‍👋 Hey, I’m Kishore
 
-I design and build computer systems…and sometimes they scale ; )
+I build ideas that thinks!
 
 ## Tools and Technologies 🔧
 ![Skills](https://skillicons.dev/icons?i=cpp,java,python,typescript,bash,next,express,fastapi,graphql,pytorch,tailwind,postgres,mongodb,sqlite,redis,rabbitmq,docker,linux,aws,githubactions,prometheus,grafana)
