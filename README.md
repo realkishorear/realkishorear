@@ -1,6 +1,6 @@
 ## ‍👋 Hey, I’m Kishore
 
-A Research Engineer building AI Products, doing some math and learning infras.
+A Research Engineer building AI Products, learning infra and doing some math.
 
 ## Tools and Technologies 🔧
 ![Skills](https://skillicons.dev/icons?i=cpp,java,python,typescript,bash,next,express,fastapi,graphql,pytorch,tailwind,postgres,mongodb,sqlite,redis,rabbitmq,docker,linux,aws,githubactions,prometheus,grafana)
